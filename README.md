@@ -45,8 +45,8 @@ compares the state-level estimates from the 2020 CCES to the true
 results, whereas the second map compares the proportion of a state’s
 respondents to its contribution to the national popular vote:
 
-![1](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/fb65933c-16eb-4184-b055-8ccf6986d63f)
-![2](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/1c6c7f14-2bef-46e5-a92d-2a10c302173c)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/1.png)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/2.png)
 
 
 As demonstrated above, the CCES was far from flawless last November. On
@@ -83,8 +83,8 @@ Donald Trump. Joe Biden further built on this advantage four years
 later, earning a slightly larger share (56-43) over Trump relative to
 Clinton. In both 2016 and 2020, Trump earned more support among men.
 
-![3](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/8ab3e749-6587-4fda-984d-7fdecddf1c20)
-![4](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/d976f258-f4b3-4596-906e-46b72c34409c)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/3.png)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/4.png)
 
 
 ## Election Results by Education
@@ -110,8 +110,8 @@ elections](https://www.pewresearch.org/fact-tank/2016/09/15/educational-divide-i
 to one of the [most important demographic trends of
 all](https://www.nytimes.com/2020/05/12/upshot/polls-2020-trump-biden.html).
 
-![5](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/00791f64-501f-4900-9d2b-65e779c91294)
-![6](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/78cc52ad-9704-4201-83c2-4f97b60e3ee0)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/5.png)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/6.png)
 
 
 ## Election Results by Race
@@ -144,8 +144,8 @@ on its questionnaire, rather than providing more specific choices (such
 as nationality) that might more faithfully capture the contours of this
 demographic group.
 
-![7](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/7f450ca7-07db-449d-8be7-05370c930979)
-![8](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/c20236f5-0ceb-4260-83e1-c37e229dc1df)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/7.png)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/8.png)
 
 
 ## Election Results by Age
@@ -168,8 +168,8 @@ matter. This boost was particularly prominent among voters aged 18-34:
 Clinton won them by 20 points, Biden won them by approximately 30
 points.
 
-![9](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/ddc6c326-c6e2-41f1-b6ae-245e91d8b354)
-![10](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/854a9adf-f52c-4565-ac9f-31ffee643b6f)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/9.png)
+![alt text](https://github.com/bradwascher/portfolio-surveyviz/blob/main/images/10.png)
 
 
 ## Closing Thoughts
