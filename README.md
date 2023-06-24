@@ -4,8 +4,6 @@ This script processes and visualizes survey results from the [Cooperative Electi
 
 # Output
 ### Whose Destiny Did Demographics Decide?: Visualizing the 2020 Cooperative Election Study (CCES)
-By Bradley Wascher
-
 Originally 5/17/2021
 
 Joe Biden’s victory over Donald Trump in the 2020 election came thanks
