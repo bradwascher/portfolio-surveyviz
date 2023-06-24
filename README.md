@@ -1,5 +1,5 @@
 # About
-This script processes and visualizes survey results from the [Cooperative Election Study (CES/CCES)](https://cces.gov.harvard.edu), demonstrating how different demographic coalitions voted in the 2008–2020 presidential elections. The first half of the code wrangles the survey microdata, while the second half outputs various charts.
+This script processes and visualizes survey results from the [Cooperative Election Study (CES/CCES)](https://cces.gov.harvard.edu), demonstrating how different demographic coalitions voted in the 2008–2020 presidential elections. The first half of the code wrangles the survey microdata, while the second half outputs various charts. This was originally a project I did in graduate school.
 
 
 # Output
@@ -38,7 +38,7 @@ groups, and then comparing those to the equivalent estimates from the
 2016 Cooperative Congressional Election Study. All data has been
 reweighted using the information provided by the CCES.
 
-## Visualizations 1 & 2: CCES Estimates vs. 2020 Results
+## CCES Estimates vs. 2020 Results
 
 Before diving in, it’s important to remember that the Cooperative
 Election Study is still just a poll. As a result, its estimates don’t
@@ -47,7 +47,9 @@ compares the state-level estimates from the 2020 CCES to the true
 results, whereas the second map compares the proportion of a state’s
 respondents to its contribution to the national popular vote:
 
-![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-3-2.png)<!-- -->
+![1](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/fb65933c-16eb-4184-b055-8ccf6986d63f)
+![2](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/1c6c7f14-2bef-46e5-a92d-2a10c302173c)
+
 
 As demonstrated above, the CCES was far from flawless last November. On
 average, the state-level results overestimated support for Joe Biden by
@@ -67,7 +69,7 @@ comprised 8.4% of the CCES sample while contributing to 11% of the
 national popular vote — this discrepancy of 2.6 points was by far the
 largest recorded).
 
-## Visualizations 3 & 4: Election Results by Gender
+## Election Results by Gender
 
 Although politics in the United States have become increasingly
 polarized [over the last two decades
@@ -83,9 +85,11 @@ Donald Trump. Joe Biden further built on this advantage four years
 later, earning a slightly larger share (56-43) over Trump relative to
 Clinton. In both 2016 and 2020, Trump earned more support among men.
 
-![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-4-2.png)<!-- -->
+![3](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/8ab3e749-6587-4fda-984d-7fdecddf1c20)
+![4](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/d976f258-f4b3-4596-906e-46b72c34409c)
 
-## Visualizations 5 & 6: Election Results by Education
+
+## Election Results by Education
 
 One of the [big
 stories](https://www.brookings.edu/research/americas-electoral-future_2018/)
@@ -108,9 +112,11 @@ elections](https://www.pewresearch.org/fact-tank/2016/09/15/educational-divide-i
 to one of the [most important demographic trends of
 all](https://www.nytimes.com/2020/05/12/upshot/polls-2020-trump-biden.html).
 
-![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-5-2.png)<!-- -->
+![5](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/00791f64-501f-4900-9d2b-65e779c91294)
+![6](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/78cc52ad-9704-4201-83c2-4f97b60e3ee0)
 
-## Visualizations 7 & 8: Election Results by Race
+
+## Election Results by Race
 
 While Donald Trump ultimately fell short of a second term, he managed to
 win [12 million more
@@ -140,9 +146,11 @@ on its questionnaire, rather than providing more specific choices (such
 as nationality) that might more faithfully capture the contours of this
 demographic group.
 
-![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-6-2.png)<!-- -->
+![7](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/7f450ca7-07db-449d-8be7-05370c930979)
+![8](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/c20236f5-0ceb-4260-83e1-c37e229dc1df)
 
-## Visualizations 9 & 10: Election Results by Age
+
+## Election Results by Age
 
 In the lead-up to the 2020 election, there was much
 [chatter](https://www.brookings.edu/blog/the-avenue/2020/10/28/older-voters-may-secure-a-biden-victory-in-2020s-swing-states/)
@@ -162,7 +170,9 @@ matter. This boost was particularly prominent among voters aged 18-34:
 Clinton won them by 20 points, Biden won them by approximately 30
 points.
 
-![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->![](code_cces_election_demographics_files/figure-gfm/unnamed-chunk-7-2.png)<!-- -->
+![9](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/ddc6c326-c6e2-41f1-b6ae-245e91d8b354)
+![10](https://github.com/bradwascher/portfolio-surveyviz/assets/38922214/854a9adf-f52c-4565-ac9f-31ffee643b6f)
+
 
 ## Closing Thoughts
 
