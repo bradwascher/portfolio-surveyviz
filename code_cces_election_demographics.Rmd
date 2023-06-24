@@ -2,7 +2,7 @@
 title: "Whose Destiny Did Demographics Decide?:\nVisualizing the 2020 Cooperative Election Study (CCES)\n"
 author: "Bradley Wascher"
 date: "Originally 5/17/2021"
-output: prettydoc::html_pretty
+output: rmarkdown::github_document
 theme: hpstr
 ---
 
